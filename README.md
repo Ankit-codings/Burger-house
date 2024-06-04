@@ -1,8 +1,8 @@
-# Burger_House_06-03-24
+# Burger_House_
 
 A burger is a patty of ground beef grilled and placed between two halves of a bun. Slices of raw onion, lettuce, bacon, mayonnaise, and other ingredients add flavor. Burgers are considered an American food but are popular around the world.
 
-Live Demo - https://github.com/Ankit-codings Responsive-Industrial-Business-Website-Template/
+Live Demo -  https://ankit-codings.github.io/Burger-house/
 
 Join Us Instagram - https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
 
